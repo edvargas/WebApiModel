@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Service", "Api.Service\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Application", "Api.Application\Api.Application.csproj", "{61C0A612-944B-4EA4-A2BB-C27071351A61}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4DA94E62-4941-46AB-993B-2D5E1E33009C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +44,13 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A44C36D3-0C68-4B78-B54B-43AAE4B1104B} = {4DA94E62-4941-46AB-993B-2D5E1E33009C}
+		{F4D80388-CF29-438F-AA72-9A5947592185} = {4DA94E62-4941-46AB-993B-2D5E1E33009C}
+		{EA5C49DB-9900-42DB-B372-EF735328CA74} = {4DA94E62-4941-46AB-993B-2D5E1E33009C}
+		{03648BE4-9DC2-46B7-9ACB-E28E495F8AE8} = {4DA94E62-4941-46AB-993B-2D5E1E33009C}
+		{61C0A612-944B-4EA4-A2BB-C27071351A61} = {4DA94E62-4941-46AB-993B-2D5E1E33009C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B451A331-2CDA-45CA-93C3-C0F893BFA9B3}
