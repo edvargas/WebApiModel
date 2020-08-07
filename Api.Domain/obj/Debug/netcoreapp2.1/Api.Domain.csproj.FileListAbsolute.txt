@@ -1,0 +1,8 @@
+E:\repositorio\WebApplication1\Api.Domain\bin\Debug\netcoreapp2.1\Api.Domain.deps.json
+E:\repositorio\WebApplication1\Api.Domain\bin\Debug\netcoreapp2.1\Api.Domain.dll
+E:\repositorio\WebApplication1\Api.Domain\bin\Debug\netcoreapp2.1\Api.Domain.pdb
+E:\repositorio\WebApplication1\Api.Domain\obj\Debug\netcoreapp2.1\Api.Domain.AssemblyInfoInputs.cache
+E:\repositorio\WebApplication1\Api.Domain\obj\Debug\netcoreapp2.1\Api.Domain.AssemblyInfo.cs
+E:\repositorio\WebApplication1\Api.Domain\obj\Debug\netcoreapp2.1\Api.Domain.csproj.CoreCompileInputs.cache
+E:\repositorio\WebApplication1\Api.Domain\obj\Debug\netcoreapp2.1\Api.Domain.dll
+E:\repositorio\WebApplication1\Api.Domain\obj\Debug\netcoreapp2.1\Api.Domain.pdb

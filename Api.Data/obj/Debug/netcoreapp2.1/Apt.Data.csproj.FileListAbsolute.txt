@@ -1,0 +1,14 @@
+E:\repositorio\WebApplication1\Apt.Data\bin\Debug\netcoreapp2.1\Apt.Data.deps.json
+E:\repositorio\WebApplication1\Apt.Data\bin\Debug\netcoreapp2.1\Apt.Data.runtimeconfig.json
+E:\repositorio\WebApplication1\Apt.Data\bin\Debug\netcoreapp2.1\Apt.Data.runtimeconfig.dev.json
+E:\repositorio\WebApplication1\Apt.Data\bin\Debug\netcoreapp2.1\Apt.Data.dll
+E:\repositorio\WebApplication1\Apt.Data\bin\Debug\netcoreapp2.1\Apt.Data.pdb
+E:\repositorio\WebApplication1\Apt.Data\bin\Debug\netcoreapp2.1\Api.Domain.dll
+E:\repositorio\WebApplication1\Apt.Data\bin\Debug\netcoreapp2.1\Api.Domain.pdb
+E:\repositorio\WebApplication1\Apt.Data\obj\Debug\netcoreapp2.1\Apt.Data.csprojAssemblyReference.cache
+E:\repositorio\WebApplication1\Apt.Data\obj\Debug\netcoreapp2.1\Apt.Data.csproj.CoreCompileInputs.cache
+E:\repositorio\WebApplication1\Apt.Data\obj\Debug\netcoreapp2.1\Apt.Data.AssemblyInfoInputs.cache
+E:\repositorio\WebApplication1\Apt.Data\obj\Debug\netcoreapp2.1\Apt.Data.AssemblyInfo.cs
+E:\repositorio\WebApplication1\Apt.Data\obj\Debug\netcoreapp2.1\Apt.Data.csproj.CopyComplete
+E:\repositorio\WebApplication1\Apt.Data\obj\Debug\netcoreapp2.1\Apt.Data.dll
+E:\repositorio\WebApplication1\Apt.Data\obj\Debug\netcoreapp2.1\Apt.Data.pdb

@@ -1,0 +1,16 @@
+E:\repositorio\WebApplication1\Api.CrossCutting\obj\Debug\netcoreapp2.1\Api.CrossCutting.csprojAssemblyReference.cache
+E:\repositorio\WebApplication1\Api.CrossCutting\obj\Debug\netcoreapp2.1\Api.CrossCutting.AssemblyInfoInputs.cache
+E:\repositorio\WebApplication1\Api.CrossCutting\obj\Debug\netcoreapp2.1\Api.CrossCutting.AssemblyInfo.cs
+E:\repositorio\WebApplication1\Api.CrossCutting\obj\Debug\netcoreapp2.1\Api.CrossCutting.csproj.CoreCompileInputs.cache
+E:\repositorio\WebApplication1\Api.CrossCutting\bin\Debug\netcoreapp2.1\Api.CrossCutting.deps.json
+E:\repositorio\WebApplication1\Api.CrossCutting\bin\Debug\netcoreapp2.1\Api.CrossCutting.dll
+E:\repositorio\WebApplication1\Api.CrossCutting\bin\Debug\netcoreapp2.1\Api.CrossCutting.pdb
+E:\repositorio\WebApplication1\Api.CrossCutting\bin\Debug\netcoreapp2.1\Api.Data.dll
+E:\repositorio\WebApplication1\Api.CrossCutting\bin\Debug\netcoreapp2.1\Api.Domain.dll
+E:\repositorio\WebApplication1\Api.CrossCutting\bin\Debug\netcoreapp2.1\Api.Service.dll
+E:\repositorio\WebApplication1\Api.CrossCutting\bin\Debug\netcoreapp2.1\Api.Data.pdb
+E:\repositorio\WebApplication1\Api.CrossCutting\bin\Debug\netcoreapp2.1\Api.Domain.pdb
+E:\repositorio\WebApplication1\Api.CrossCutting\bin\Debug\netcoreapp2.1\Api.Service.pdb
+E:\repositorio\WebApplication1\Api.CrossCutting\obj\Debug\netcoreapp2.1\Api.CrossCutting.csproj.CopyComplete
+E:\repositorio\WebApplication1\Api.CrossCutting\obj\Debug\netcoreapp2.1\Api.CrossCutting.dll
+E:\repositorio\WebApplication1\Api.CrossCutting\obj\Debug\netcoreapp2.1\Api.CrossCutting.pdb
