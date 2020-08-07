@@ -6,4 +6,3 @@ E:\repositorio\WebApplication1\Api.Domain\obj\Debug\netcoreapp2.1\Api.Domain.Ass
 E:\repositorio\WebApplication1\Api.Domain\obj\Debug\netcoreapp2.1\Api.Domain.csproj.CoreCompileInputs.cache
 E:\repositorio\WebApplication1\Api.Domain\obj\Debug\netcoreapp2.1\Api.Domain.dll
 E:\repositorio\WebApplication1\Api.Domain\obj\Debug\netcoreapp2.1\Api.Domain.pdb
-E:\repositorio\WebApplication1\Api.Domain\obj\Debug\netcoreapp2.1\Api.Domain.csprojAssemblyReference.cache

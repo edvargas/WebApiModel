@@ -3,6 +3,7 @@ using Api.Domain.Entities;
 using Api.Domain.Interfaces;
 using Api.Domain.Interfaces.Users;
 using Api.Domain.Models.Users;
+using Api.Domain.Repository;
 using AutoMapper;
 using System;
 using System.Collections.Generic;
@@ -13,10 +14,10 @@ namespace Api.Service.Services
 {
     public class UserService : IUserService
     {
-        private readonly IRepository<UserEntity> _repository;
-        private readonly IMapper _mapper;
+        private IUserRepository _repository;
+        private IMapper _mapper;
 
-        public UserService(IRepository<UserEntity> repository, IMapper mapper)
+        public UserService(IUserRepository repository, IMapper mapper)
         {
             _repository = repository;
             _mapper = mapper;
